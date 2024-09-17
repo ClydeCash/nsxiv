@@ -38,3 +38,4 @@ case "$1" in
 "C-period") rotate  90 ;;
 "C-slash")  rotate 180 ;;
 esac
+
